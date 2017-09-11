@@ -1,0 +1,62 @@
+Olá Seja Bem Vindo Ao Angel Server Pokemon v1.3
+  Agora Vamos A Um Pequeno Tutorial Mostrando Como Criar Uma Conta...
+
+<Abrindo O Jogo>
+Utilize o Pokemon H  DX9 Para Rodar Melhor Em Seu Computador.
+Assim Que Abrir Vai Aparecer A Imagem e Tocar Uma Música,
+E Ali Mesmo Vai Estar Escrito Assim...
+                    Entrar No Jogo
+              Nome Da Conta______________________
+              Senha______________________________
+              ()Lembrar Senha
+              ()Entrar Automaticamente
+                                          (ok)
+Clica Em Ok E Vai Aparecer escrito
+Account Manager, clica em Ok Novamente então já vai entrar no jogo.
+
+2 Parte:
+Assim que entrar vai aparecer uma mensagem em vermelha e outra em azul,
+Em Seguida Escreve Account e aperta Enter.
+E então Vai Aparecer O Seguinte:
+Account Manager: What would you like your password to be?
+Ele Quer Saber Qual Vai Ser Sua Senha, exemplo: 1234567890
+Ai Depois Que Você Digitar Sua Senha Ele Vai Pedir Pra Confirmar!
+Account Manager: 1234567890 is it? 'yes' or 'no'?
+Ai Se Estiver Do Jeito Que Você Quer Digita Yes(enter)Ou Se Não
+Estiver Correto Digite No(Enter) E Escreva Novamente.
+Em Caso De Yes Vai Aparecer A Seguinte Mensagem:
+What would you like your account name to be?
+Qual Vai Ser O Nome Da Sua Conta Isso Que ele Quer Saber,
+Exemplo:TesteTeste
+ Account Manager: TesteTeste, are you sure?
+Ai Se Estiver Ok Diga Yes E Pronto A Sua Conta Já Está Criada!
+
+3 Parte: Agora Vamos Criar Seu Personagem Que Basicamente funciona
+Da Mesma Maneira.
+Vou Usar Como Exemplo O Que Foi Citado Acima!
+
+                  Entrar No Jogo
+            Nome Da Conta: TesteTeste
+            Senha: 1234567890
+            ()Lembrar Senha          -- Se Quiser Que Fique Armazenado Em Seu Pc
+            ()Entrar Automaticamente -- E Para Assim Que Você Abrir Client Entrar Auto
+                                        (OK)
+Apertando Enter Vai Aparecer Novamente O Famoso Account Manager Clica OK.
+Digite Account e Enter:
+Account Manager: Do you want to change your 'password', request 
+a 'recovery key', add a 'character', or 'delete' a character?
+Ai Você Escolhe Qual Opção Que No Caso Vamos Escolher A Character.
+Digite Character E Enter.
+Account Manager: What would you like as your character name?
+Qual Será O NOme Do Seu Char? Exemplo Luis
+Account Manager: Luis, are you sure?
+Se For Digita YEs
+Account Manager: Should your character be a 'male' or a 'female'.
+Qual O Sexo? No Caso Por Ser Nome Masculino é Male Ai Depois Digita Yes e Pronto!
+Basta Relogar A Sua Conta Novamente E Seu Personagem Vai Estar la.Bom jogo!
+
+
+
+
+
+
