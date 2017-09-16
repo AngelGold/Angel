@@ -9,7 +9,11 @@ SOUNDS = {
 	-- Saffron town
 	{fromPos = {x=1596, y=1540, z=7}, toPos = {x=1610, y=1553, z=7}, sound = "Clock-Maker-the-Hero.ogg"},
 	{fromPos = {x=1597, y=1541, z=6}, toPos = {x=1610, y=1553, z=6}, sound = "Clock-Maker-the-Hero.ogg"},
-	{fromPos = {x=1598, y=1545, z=5}, toPos = {x=1610, y=1553, z=5}, sound = "batalha.ogg"},
+	{fromPos = {x=1598, y=1545, z=5}, toPos = {x=1610, y=1553, z=5}, sound = "batalha.ogg"},Winter-Alleys.ogg
+	{fromPos = {x=1581, y=1507, z=7}, toPos = {x=1665, y=1540, z=7}, sound = "Winter-Alleys.ogg"},
+	{fromPos = {x=1611, y=1541, z=7}, toPos = {x=1666, y=1597, z=7}, sound = "Winter-Alleys.ogg"},
+	{fromPos = {x=1551, y=1541, z=7}, toPos = {x=1595, y=1599, z=7}, sound = "Winter-Alleys.ogg"},
+	{fromPos = {x=1596, y=1554, z=7}, toPos = {x=1610, y=1598, z=7}, sound = "Winter-Alleys.ogg"},
 	-- Inicio Do Game
 	{fromPos = {x=1510, y=1515, z=6}, toPos = {x=1534, y=1531, z=6}, sound = "startup.ogg"},
 	-- Cerulean
