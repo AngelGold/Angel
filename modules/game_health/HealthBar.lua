@@ -157,7 +157,7 @@ function onSetFightMode(self, selectedFightButton)
     fightMode = FightDefensive
   end
   g_game.setFightMode(fightMode)
-  if g_game.isOnline() then g_game.talk('#f#ightmode '.. fightMode) end
+  if g_game.isOnline() then end
 end
 --[[  End onChange  ]]--
 
