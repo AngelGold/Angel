@@ -6,7 +6,7 @@ local areas = {
 
 	{from = {x = 1597, y = 1541, z = 6}, to = {x = 1610, y = 1553, z = 6}, priority = 0, name = 'CP - Duel'},
 
-	{from = {x = 1208, y = 1319, z = 7}, to = {x = 1220, y = 1328, z = 7}, priority = 0, name = 'CP - Fuchsia'},
+	{from = {x = 1653, y = 1695, z = 7}, to = {x = 1668, y = 1710, z = 7}, priority = 0, name = 'CP - Vermilion'},
 
 	{from = {x = 858, y = 1095, z = 6}, to = {x = 866, y = 1104, z = 6}, priority = 0, name = 'CP - Celadon'},
 
