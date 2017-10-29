@@ -8,9 +8,9 @@ local areas = {
 
 	{from = {x = 1653, y = 1695, z = 7}, to = {x = 1668, y = 1710, z = 7}, priority = 0, name = 'CP - Vermilion'},
 
-	{from = {x = 858, y = 1095, z = 6}, to = {x = 866, y = 1104, z = 6}, priority = 0, name = 'CP - Celadon'},
+	{from = {x = 1814, y = 1577, z = 7}, to = {x = 1830, y = 1592, z = 7}, priority = 0, name = 'CP - Lavander'},
 
-	{from = {x = 856, y = 1096, z = 7}, to = {x = 869, y = 1106, z = 7}, priority = 0, name = 'CP - Celadon'},
+	{from = {x = 1658, y = 1594, z = 4}, to = {x = 1679, y = 1616, z = 4}, priority = 0, name = 'CP - Secret'},
 
 	{from = {x = 700, y = 1081, z = 7}, to = {x = 714, y = 1091, z = 7}, priority = 0, name = 'CP - Viridian'},
 	{from = {x = 700, y = 1081, z = 6}, to = {x = 714, y = 1091, z = 6}, priority = 0, name = 'CP - Viridian'},
