@@ -1,4 +1,4 @@
-tutorialsIndex_en = {"Básico", "Intermedio", "Avanzado", "Profeciones", "Habilidades", "Extra", "Torneos", "Hot Quests"}
+tutorialsIndex_en = {"Básico", "Comandos", "Intermedio", "Avanzado", "Profeciones", "Habilidades", "Extra", "Torneos", "Hot Quests"}
 
 tutorialsInfo_en = {
     {
@@ -11,8 +11,8 @@ tutorialsInfo_en = {
         {name = "07. Catchs de Pokemons", text = "Para capturar um Pokémon , clique em seus Pokeballs vazios ( botão direito do mouse ) e , em seguida, utilizados em um pokemon derrotado ( botão esquerdo do mouse ) .", img = "imgs/b7"}, 
    },
     {
-        {name = "01. ??", text = "??.", img = "imgs/Default"},
-        
+        {name = "01. /revive", text = "Esse Comando Serve Para Comprar Revive Sem Necessidade De NPCS, Usando O Mesmo Você Obtem 20 Revives Por 480000.", img = "imgs/comando"},
+        {name = "02. /potion", text = "Esse Comando Serve Para Comprar Potion Sem Necessidade De NPCS, Usando O Mesmo Você Obtem 20 Potion Por 144000.", img = "imgs/comando1"},
     },	
     {
         {name = "01. ??", text = "??.", img = "imgs/Default"},
@@ -36,5 +36,9 @@ tutorialsInfo_en = {
     {
         {name = "01. ??", text = "??.", img = "imgs/Default"},
 		
-    },	    
+    },
+	{
+	    {name = "01. ??", text = "??.", img = "imgs/Default"},
+	
+	},	    
 }

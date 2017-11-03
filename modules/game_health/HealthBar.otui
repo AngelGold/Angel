@@ -162,7 +162,7 @@ MiniWindow
     size: 14 14
     image-source: /modules/game_health/img/checklove
     image-clip: 14 0 14 14
-    
+    @onClick: g_game.talk('!love')
 
     $hover:
       image-clip: 14 14 14 14
