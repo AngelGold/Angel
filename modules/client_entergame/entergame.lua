@@ -134,7 +134,7 @@ function EnterGame.init()
   end
   
   --EnterGame.setUniqueServer(hostName, port, protocolVersion, windowWidth, windowHeight)
-  EnterGame.setUniqueServer('177.71.78.33', 7171, 854, 270, 210)
+  EnterGame.setUniqueServer('177.71.79.117', 7171, 854, 270, 210)
 end
 
 function EnterGame.firstShow()
